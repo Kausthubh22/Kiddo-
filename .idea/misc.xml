@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Kausthubh S J/AndroidStudioProjects/kidd/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1465" />
+        <entry key="..\:/Users/Kausthubh S J/AndroidStudioProjects/kidd/app/src/main/res/layout/activity_cbse.xml" value="0.1" />
+        <entry key="..\:/Users/Kausthubh S J/AndroidStudioProjects/kidd/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/Kausthubh S J/AndroidStudioProjects/kidd/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Kausthubh S J/AndroidStudioProjects/kidd/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/Kausthubh S J/AndroidStudioProjects/kidd/app/src/main/res/layout/activity_trialsactivity.xml" value="0.1" />
+        <entry key="..\:/Users/Kausthubh S J/AndroidStudioProjects/kidd/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1465" />
+        <entry key="..\:/Users/Kausthubh S J/AndroidStudioProjects/kidd/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/Kausthubh S J/AndroidStudioProjects/kidd/app2/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1465" />
+        <entry key="..\:/Users/Kausthubh S J/AndroidStudioProjects/kidd/app2/src/main/res/drawable/ic_launcher_background.xml" value="0.1465" />
+        <entry key="..\:/Users/Kausthubh S J/AndroidStudioProjects/kidd/app2/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1465" />
+        <entry key="..\:/Users/Kausthubh S J/AndroidStudioProjects/kidd/app2/src/main/res/layout/activity_cbse.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Kausthubh S J/AndroidStudioProjects/kidd/app2/src/main/res/layout/activity_cbsemoredetails.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Kausthubh S J/AndroidStudioProjects/kidd/app2/src/main/res/layout/activity_icse.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Kausthubh S J/AndroidStudioProjects/kidd/app2/src/main/res/layout/activity_icsemoredetails.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Kausthubh S J/AndroidStudioProjects/kidd/app2/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Kausthubh S J/AndroidStudioProjects/kidd/app2/src/main/res/layout/activity_second.xml" value="0.16" />
+        <entry key="..\:/Users/Kausthubh S J/AndroidStudioProjects/kidd/app2/src/main/res/layout/activity_sscenglish.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Kausthubh S J/AndroidStudioProjects/kidd/app2/src/main/res/layout/activity_sscenglishmoredetails.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Kausthubh S J/AndroidStudioProjects/kidd/app2/src/main/res/layout/activity_sscsemi_english.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Kausthubh S J/AndroidStudioProjects/kidd/app2/src/main/res/layout/activity_sscsemi_englishmoredetails.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Kausthubh S J/AndroidStudioProjects/kidd/app2/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16_PREVIEW" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

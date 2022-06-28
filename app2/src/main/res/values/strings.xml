@@ -1,0 +1,67 @@
+<resources>
+
+    <string name="app_name">Kiddo</string>
+    <string name="select_board">Select Board</string>
+    <string name="select_schools">Select a school name </string>
+    <string name="select_medium">Select a medium </string>
+    <string name="select_faculty_school">Select a school to view its more details: </string>
+
+
+    <string-array name="Select_board">
+        <item>Select board</item>
+        <item>CBSE</item>
+        <item>ICSE</item>
+        <item>SSC</item>
+    </string-array>
+
+
+    <string-array name="Select_cbse_school_faculty">
+        <item>Select a CBSE school for more details: </item>
+        <item>R N Gandhi School</item>
+        <item>The Somaiya School </item>
+    </string-array>
+
+    <string-array name="Select_cbse_schools">
+        <item>Select a school</item>
+        <item>R N Gandhi School</item>
+        <item>The Somaiya School</item>
+    </string-array>
+
+
+    <string-array name="Select_icse_schools">
+        <item>Select a school</item>
+        <item>Garodia International School</item>
+        <item>Orchids The International School</item>
+        <item>The Universal School</item>
+    </string-array>
+
+    <string-array name="Select_icse_school_faculty">
+        <item>Select a ICSE school for more details: </item>
+        <item>Garodia International School</item>
+        <item>Orchids The International School</item>
+        <item>The Universal School </item>
+    </string-array>
+
+
+    <string-array name="Select_ssc_medium">
+        <item>Select a medium</item>
+        <item>English</item>
+        <item>Semi English</item>
+    </string-array>
+
+    <string-array name="Select_ssceng_schools">
+        <item>Select a school</item>
+        <item>Fatima High School</item>
+        <item>Kohinoor International School</item>
+        <item>Smt S T Mehta School</item>
+    </string-array>
+
+    <string-array name="Select_ssceng_school_faculty">
+        <item>Select a school</item>
+        <item>Fatima High School</item>
+        <item>Kohinoor International School</item>
+        <item>Smt S T Mehta School</item>
+    </string-array>
+
+
+</resources>
